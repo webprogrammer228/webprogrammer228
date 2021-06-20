@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @webprogrammer228
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Приветствую ! Я по-тихоньку, да по-маленьку стараюсь изучать что-то новое, здесь я собираю то, что у меня есть.
+Пока что знаю :
+HTML
+CSS
+Javascript
+React(начал изучать)
 
-<!---
-webprogrammer228/webprogrammer228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Остальные технологии знаю недостаточно хорошо, но все знать и невозможно)) Все писал сам, без лишних рук.
