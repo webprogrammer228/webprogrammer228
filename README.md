@@ -9,7 +9,7 @@
 <br>
 <b>Javascript</b>
 <br>
-<b>Немного React</b>
+<b>React, Redux, Redux toolkit, Next js</b>
 <br>
 <b>Немного Vue</b>
 <hr>
