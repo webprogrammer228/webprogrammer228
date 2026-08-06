@@ -1,25 +1,11 @@
-# Приветствую! 👋
+# Богдан Гордейчук
 
-Я постепенно изучаю новые технологии и делюсь своими знаниями и проектами здесь. Этот репозиторий — моя личная коллекция работы и экспериментов.
+Frontend-разработчик. Более 6 лет коммерческой разработки интерфейсов для B2B-продуктов и клиентских сервисов.
 
-## Мои навыки
+Работаю с React, TypeScript, Next.js, Redux Toolkit, RTK Query, React Hook Form, Zod, Storybook и REST API. Беру frontend-задачи с формами, таблицами, личными кабинетами, ролями и интеграциями с готовыми API.
 
-- **HTML** 📄
-- **CSS** 🎨
-- **JavaScript** 🖥️
-- **React** ⚛️
-- **Redux** 🔄
-- **Redux Toolkit** 🛠️
-- **Next.js** 🚀
-- **MobX** 🧩
-- **React Query** 🔍
-- **Zod** 🧩
-- **React Hook Form** 📝
-- **Docker** 🐋
+Большая часть коммерческих проектов закрыта NDA, поэтому здесь только публичные работы и отдельные проекты.
 
-### Связь
-
-- Telegram: [@bagga_lev](https://t.me/bagga_lev) 📱
-- Email: [comedi4@gmail.com](mailto:comedi4@gmail.com) 📧
-
-Если у вас есть вопросы или предложения, не стесняйтесь обращаться! 😊
+- Сайт и контакты: https://bogdan-business-site.vercel.app/
+- Telegram: https://t.me/b_gord
+- Email: baggalev@yandex.ru
